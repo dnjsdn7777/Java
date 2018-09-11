@@ -30,5 +30,6 @@ public class SimpleCompute {
     System.out.println ("합 = " + sum);
     System.out.println ("차 = " + diff);
     System.out.println ("곱 = " + product);
+    scan.close();
    }
 }

@@ -17,5 +17,6 @@ public class TempConverter
 
     System.out.println("화씨 온도:\t" + fahrenheitValue);
     System.out.println("섭씨 온도:\t" + celsiusValue);
+    scan.close();
    }
 }
